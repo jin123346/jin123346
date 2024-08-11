@@ -11,7 +11,7 @@ css
 
 ###  frameworks and tool
 JSP
-SPRING frameWorks
+SPRING 
 
 ### My tools for Data Manipulation & Visualisation:
 mysql anaconda 
