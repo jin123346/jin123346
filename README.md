@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+
 ### About Me
 
 
@@ -8,6 +10,8 @@ java
 javaScript
 html
 css
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jin123346)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ###  frameworks and tool
 JSP
@@ -22,6 +26,7 @@ VBbox Nutanix Git
 windows Linux
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=footer" />
 
 
 
