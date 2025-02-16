@@ -69,6 +69,7 @@
 #### 💻 Project Timeline
 | **작업 기한**        | **프로젝트 명**                     | **이동**  |
 |-----------------|-------------------------------|-------|
+| 25.1.18 ~ 진행중   | 중고마켓앱 프로젝트     | [Back->](https://github.com/jin123346/APPlusMarket_BE) [Front->](https://github.com/jin123346/APPlusMarket_Flutter) |
 | 24.11.16~24.12.26 | Plantry 그룹웨어 프로젝트     | [Back->](https://github.com/jin123346/Plnatry-BO) [Front->](https://github.com/jin123346/Plantry-FO) |
 | 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/jin123346/Team3-LotteOn-Project) |
 | 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/jin123346/FarmstoryProject-Spring-) |
