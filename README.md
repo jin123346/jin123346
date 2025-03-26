@@ -19,11 +19,6 @@
 | <a href="mailto:hajhi7899@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://breezy-bat-691.notion.site/1b9139efef3e8099a9c6d33f0af01724"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://codejinjinh.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/jin123346?tab=repositories"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://breezy-bat-691.notion.site/SW-1ac17fb2838880a49850e4b2efa1ea3a"><img src="https://img.shields.io/badge/portfolio-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
 </div>
 
-
-## 💡 Blog  
-배움을 기록하고 있습니다 <br>
-📖 [ Jinhee의 기술 블로그](https://codejinjinh.tistory.com/)  
-
 <h2>🔍 프로젝트 </h2>
 <div align="center">
   
