@@ -1,7 +1,7 @@
 <div align="center">
   <h3 align="center">☼ 좋은 아침, 좋은 점심, 좋은 저녁입니다.ᐟ </h3>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=900&size=25&duration=3000&pause=50&color=535FFF&background=FFFDFD00&center=true&vCenter=true&multiline=true&width=600&height=83&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%95%98%EC%A7%84%ED%9D%AC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=IBM+Plex+Sans+KR&weight=900&size=25&duration=3000&pause=50&color=535FFF&background=FFFDFD00&center=true&vCenter=true&multiline=true&width=600&height=83&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%95%98%EC%A7%84%ED%9D%AC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 
 
