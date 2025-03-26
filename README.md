@@ -1,6 +1,9 @@
 <div align="center">
+  <h3 align="center">☼ 좋은 아침, 좋은 점심, 좋은 저녁입니다.ᐟ </h3>
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=250&section=header&text=💻%20JinHee's%20Profile%20💻&fontSize=70&fontAlign=50)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=900&size=25&duration=3000&pause=50&color=535FFF&background=FFFDFD00&center=true&vCenter=true&multiline=true&width=600&height=83&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;%EB%AC%B8%EC%A0%9C+%ED%95%B4%EA%B2%B0%EC%9D%84+%EC%A6%90%EA%B8%B0%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90+%ED%95%98%EC%A7%84%ED%9D%AC%EC%9E%85%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+
+
 
 ---
 
@@ -8,13 +11,34 @@
 안녕하세요, 끊임없이 성장하는 개발자 **하진희**입니다!  
 항상 배우는 자세로 꾸준히 발전하는 개발자가 목표입니다. 🌟
 
+<h2>👀 나의 정보</h2>
+<div>
+  
+| **이메일** | **포트폴리오** | **기술 블로그** | **프로젝트 저장소** | **개발 컨텐츠** |
+|:----------:|:-------------:|:--------------:|:------------------:|:--------------:|
+| <a href="mailto:hajhi7899@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a> | <a href="https://breezy-bat-691.notion.site/1b9139efef3e8099a9c6d33f0af01724"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" /></a> | <a href="https://codejinjinh.tistory.com/"><img src="https://img.shields.io/badge/Tistory-ff524b?style=for-the-badge&logo=tistory&logoColor=white" /></a> | <a href="https://github.com/jin123346"><img src="https://img.shields.io/badge/My_Repos-4284f4?style=for-the-badge&logo=github&logoColor=white" /></a> | <a href="https://breezy-bat-691.notion.site/SW-1ac17fb2838880a49850e4b2efa1ea3a"><img src="https://img.shields.io/badge/portfolio-FF3839?style=for-the-badge&logo=youtube&logoColor=white" /></a> |
+</div>
+
+
 ## 💡 Blog  
 배움을 기록하고 있습니다 <br>
 📖 [ Jinhee의 기술 블로그](https://codejinjinh.tistory.com/)  
 
+<h2>🔍 프로젝트 </h2>
+<div align="center">
+  
+| **작업 기한** | **프로젝트 명** | **기술 스택** | **담당 기능** | **링크** | **시연 영상** |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| 25.01.20 ~ 25.03.07 (6주) | [A+ market] 중고거래 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 유저,상품 /kafka, CI/CD | [🔗Front](https://github.com/jin123346/APPlusMarket_Flutter)   [🔗Back](https://github.com/jin123346/APPlusMarket_BE) | [▶️](https://youtu.be/BCxBoX6Sezk?si=aqshyZ8GOrW4OH_S) |
+| 24.11.18 ~ 24.12.26 (6주) | [Plantry] 그룹웨어 웹 프로젝트 | Java, React, SpringBoot, JPA | 드라이브(파일서버) | [🔗Back](https://github.com/jin123346/Plnatry-BO) [🔗Front](https://github.com/jin123346/Plantry-FO) | [▶️](https://www.youtube.com/watch?v=1e6QSD1kN9M) |
+| 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 회원 | [🔗](https://github.com/jin123346/Team3-LotteOn-Project) | [▶️](https://www.youtube.com/watch?v=zAxkudEVJoU) |
+
+
+</div>
+
+
 ---
 ### 📚 Tech Stack
-#### ⚡ Platforms & Languages ⚡
 <div align="center">
 	<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" alt="Java">
 	<img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=java&logoColor=white" alt="JSP">
@@ -36,19 +60,21 @@
 	<img src="https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=Spring&logoColor=white" alt="JPA">
  	<img src="https://img.shields.io/badge/Dart-C71A36?style=flat-square&logo=Dart&logoColor=white" alt="Dart">
 	<img src="https://img.shields.io/badge/Flutter-59666C?style=flat-square&logo=flutter&logoColor=blue" alt="Flutter">
+	<img src="https://img.shields.io/badge/Kafka-59666C?style=flat-square&logo=flutter&logoColor=blue" alt="Kafka">
+ 	<img src="https://img.shields.io/badge/-59666C?style=flat-square&logo=flutter&logoColor=blue" alt="Kafka">	
 
 ---
 </div>
 
 ### 🔨 Tools I Use
 
-<div>
-	<img src="https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=Eclipse%20IDE&logoColor=white" />
-	<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJ%20IDEA&logoColor=white" />
-	<img src="https://img.shields.io/badge/Apache%20Tomcat-F8DC75?style=flat&logo=Apache%20Tomcat&logoColor=black" />
-	<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white" />
-  	<img src="https://img.shields.io/badge/AndroidStudio-6DB33F?style=flat&logo=AndroidStudio&logoColor=white" />
-
+<div align="center">
+  <img src="https://img.shields.io/badge/Eclipse-2f276d?style=for-the-badge&logo=Eclipse&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-177cda?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+  <img src="https://img.shields.io/badge/IntelliJ-111317?style=for-the-badge&logo=IntelliJ%20IDEA&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Studio-30bd88?style=for-the-badge&logo=android-studio&logoColor=white" />
 </div>
 
 ---
@@ -64,27 +90,16 @@
 
 ---
 
-### 📅 Projects Overview
-
-#### 💻 Project Timeline
-| **작업 기한**        | **프로젝트 명**                     | **이동**  |
-|-----------------|-------------------------------|-------|
-| 25.1.18 ~ 진행중   | 중고마켓앱 프로젝트     | [Back->](https://github.com/jin123346/APPlusMarket_BE) [Front->](https://github.com/jin123346/APPlusMarket_Flutter) |
-| 24.11.16~24.12.26 | Plantry 그룹웨어 프로젝트     | [Back->](https://github.com/jin123346/Plnatry-BO) [Front->](https://github.com/jin123346/Plantry-FO) |
-| 24.10.18~24.11.15 | LotteOn 쇼핑몰 프로젝트            | [->](https://github.com/jin123346/Team3-LotteOn-Project) |
-| 24.09.27~24.10.04 | farmstory 프로젝트                | [->](https://github.com/jin123346/FarmstoryProject-Spring-) |
-
----
-
 ### 🎯 현재 작업 중인 내용:
-- 🌱 Spring Boot를 활용한 백엔드 기술 향상
-- 🚀 AWS를 사용하여 확장 가능한 클라우드 애플리케이션 구축
-- 💻 androidStudio  Flutter 학습중 
+- 🌱 현재까지 한 내용 정리 및 공부중 
+- 🚀 정보처리기사 실기 자격증 공부중 
+- 💻 프로그래머스 알고리즘 학습중
 
 ---
 
 ### 📫 How to reach me:
-- **Email**: hajhi789@gmail.com
+- **Email**: hajhi7899@gmail.com
+- **phone**: 010-5595-8375
 
 ---
 
