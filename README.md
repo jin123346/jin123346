@@ -26,7 +26,7 @@
 |:---:|:---:|:---:|:---:|:---:|:---:|
 | 25.01.20 ~ 25.03.07 (6주) | [A+ market] 중고거래 앱 프로젝트 | Java, Flutter, SpringBoot, MyBatis | 유저,상품 /kafka, CI/CD | [🔗Front](https://github.com/jin123346/APPlusMarket_Flutter)   [🔗Back](https://github.com/jin123346/APPlusMarket_BE) | [▶️](https://youtu.be/BCxBoX6Sezk?si=aqshyZ8GOrW4OH_S) |
 | 24.11.18 ~ 24.12.26 (6주) | [Plantry] 그룹웨어 웹 프로젝트 | Java, React, SpringBoot, JPA | 드라이브(파일서버) | [🔗Back](https://github.com/jin123346/Plnatry-BO) [🔗Front](https://github.com/jin123346/Plantry-FO) | [▶️](https://www.youtube.com/watch?v=1e6QSD1kN9M) |
-| 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 회원 | [🔗](https://github.com/jin123346/Team3-LotteOn-Project) | [▶️](https://www.youtube.com/watch?v=zAxkudEVJoU) |
+| 24.10.21 ~ 24.11.15 (5주) | [롯데 e-커머스] LOTTE ON 쇼핑몰 | Java, SpringBoot, JPA | 상품,장바구니,구매 | [🔗](https://github.com/jin123346/Team3-LotteOn-Project) | [▶️](https://www.youtube.com/watch?v=zAxkudEVJoU) |
 
 
 </div>
