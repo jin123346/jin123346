@@ -17,7 +17,7 @@
 | Jan – Mar 2025 | 3 Members (Fullstack) | Spring Boot, Flutter, Kafka, MongoDB, WebSocket |
 
 📷 **Preview**  
-<img width="864" height="1845" alt="image (6)" src="https://github.com/user-attachments/assets/af86ab4a-4eb0-4dbe-9a0a-5a599fdd5649" />
+<img width="200" height="800" alt="image (6)" src="https://github.com/user-attachments/assets/af86ab4a-4eb0-4dbe-9a0a-5a599fdd5649" />
 
 ---
 
@@ -64,7 +64,7 @@ protected void doFilterInternal(...) {
 - Redis for crawl-status deduplication
 
 📷 Example Flow  
-<img width="1378" height="601" alt="image (7)" src="https://github.com/user-attachments/assets/97d9e3ab-cdc3-418a-944a-e1efb18313fd" />
+<img width="1000" height="401" alt="image (7)" src="https://github.com/user-attachments/assets/97d9e3ab-cdc3-418a-944a-e1efb18313fd" />
 
 <img width="1065" height="242" alt="image (2)" src="https://github.com/user-attachments/assets/0c2bf7eb-291a-49c3-94f3-7db27ed50c7b" />
 
@@ -176,4 +176,5 @@ public void sendSearchRequest(String keyword) {
 > **Ha Jinhee**  
 > 📧 hajhi7899@gmail.com  
 > 🌐 GitHub: [jin123346](https://github.com/jin123346)
+
 
